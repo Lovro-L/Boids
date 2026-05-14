@@ -1,1 +1,1 @@
-A Boid simulation using the Raylib ("https://www.raylib.com") library.
+A Boid simulation using the Raylib (https://www.raylib.com) library.
